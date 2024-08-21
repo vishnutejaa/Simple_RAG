@@ -1,0 +1,1 @@
+This a backend version of a  RAG application built with OEPNAI API which utilizes chromaDB to synthesizes a DB on given structured/unstructured data. When prompted retrieves the relevant chunks of data and passes onto the Language Model being used and generates a response.
